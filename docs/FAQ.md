@@ -96,6 +96,8 @@ Examples:
 - Copywriter
 - Creative Designer
 - Prompt Builder
+- Social Media Manager
+- QA Reviewer
 
 ---
 
@@ -129,6 +131,10 @@ Copy Package
 ↓
 
 Creative Package
+
+↓
+
+Image Prompt Package
 ```
 
 ---

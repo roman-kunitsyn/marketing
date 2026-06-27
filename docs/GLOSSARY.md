@@ -20,6 +20,9 @@ Examples
 - Content Strategist
 - Copywriter
 - Creative Designer
+- Prompt Builder
+- Social Media Manager
+- QA Reviewer
 
 Agents never communicate directly with each other.
 They communicate through structured artifacts.
@@ -40,6 +43,7 @@ Examples
 - Content Package
 - Copy Package
 - Creative Package
+- Image Prompt Package
 - Publishing Plan
 
 Artifacts are the primary communication mechanism inside the agency.
@@ -200,7 +204,7 @@ Includes
 - Layouts
 - Visual Concepts
 - Image References
-- Prompt Packages
+- Image Prompt Package
 
 ---
 
@@ -219,7 +223,7 @@ Includes
 
 ---
 
-# Prompt Package
+# Image Prompt Package
 
 A structured collection of prompts used by image generation models.
 
