@@ -33,19 +33,17 @@ Campaign Strategy
 
 ↓
 
+Content Strategy
+
+↓
+
 Content Package
 
-↓
-
-Copy Package
-
-↓
-
-Creative Package
-
-↓
-
-Image Prompt Package
+    ├────► Copy Package
+    └────► Creative Package
+                         │
+                         ▼
+                Image Prompt Package
 
 ↓
 
@@ -53,7 +51,11 @@ Publishing Plan
 
 ↓
 
-Marketing Campaign
+Review
+
+↓
+
+Delivery
 ```
 
 Every step produces structured JSON artifacts instead of unstructured text.
@@ -116,26 +118,28 @@ Client Interview
 Marketing Brief
         │
         ▼
-Campaign Builder
+Campaign Strategy
         │
         ▼
 Content Strategy
         │
- ┌──────┴────────┐
- ▼               ▼
-Copywriter   Creative Designer
-        │
         ▼
-Prompt Builder
-        │
-        ▼
-Image Generation
+Content Package
+    ┌────┴───────────────┐
+    ▼                    ▼
+Copy Package      Creative Package
+                         │
+                         ▼
+                Image Prompt Package
         │
         ▼
 Publishing Plan
         │
         ▼
 Review
+        │
+        ▼
+Delivery
 ```
 
 ---
@@ -146,7 +150,9 @@ Review
 - Content Strategist
 - Copywriter
 - Creative Designer
+- Prompt Builder
 - Social Media Manager
+- QA Reviewer
 
 Each role produces well-defined artifacts consumed by the next role.
 
@@ -162,6 +168,8 @@ marketing_brief.json
 campaign_strategy.json
 
 content_strategy.json
+
+content_package.json
 
 copy_package.json
 

@@ -92,8 +92,10 @@ An agent is a specialized worker responsible for producing one or more artifacts
 Examples:
 
 - Marketing Strategist
+- Content Strategist
 - Copywriter
 - Creative Designer
+- Prompt Builder
 
 ---
 
@@ -111,6 +113,14 @@ Marketing Brief
 ↓
 
 Campaign Strategy
+
+↓
+
+Content Strategy
+
+↓
+
+Content Package
 
 ↓
 

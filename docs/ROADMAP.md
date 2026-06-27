@@ -42,11 +42,13 @@ Transform a structured client interview into a complete, publishable marketing c
 - [ ] Client Interview
 - [ ] Marketing Brief
 - [ ] Campaign Strategy
+- [ ] Content Strategy
 - [ ] Content Package
 - [ ] Copy Package
 - [ ] Creative Package
-- [ ] Prompt Package
+- [ ] Image Prompt Package
 - [ ] Publishing Plan
+- [ ] Review Report
 
 ### Dictionaries
 
@@ -110,6 +112,8 @@ marketing_brief.json
 campaign_strategy.json
 
 content_strategy.json
+
+content_package.json
 ```
 
 ---
@@ -347,16 +351,22 @@ Knowledge Base
 Marketing Strategy
     │
     ▼
-Campaign Builder
+Campaign Strategy
     │
     ▼
-Content Generator
+Content Strategy
     │
     ▼
-Prompt Builder
+Content Package
     │
     ▼
-Image Generator
+Copy Package
+    │
+    ▼
+Creative Package
+    │
+    ▼
+Image Prompt Package
     │
     ▼
 Publishing

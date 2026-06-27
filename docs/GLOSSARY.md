@@ -17,6 +17,7 @@ A specialized worker responsible for producing one or more business artifacts.
 Examples
 
 - Marketing Strategist
+- Content Strategist
 - Copywriter
 - Creative Designer
 
@@ -35,6 +36,8 @@ Examples
 
 - Marketing Brief
 - Campaign Strategy
+- Content Strategy
+- Content Package
 - Copy Package
 - Creative Package
 - Publishing Plan
@@ -120,6 +123,10 @@ Includes
 - Publishing Schedule
 - Formats
 
+Output
+
+content_strategy.json
+
 ---
 
 # Content Package
@@ -133,6 +140,10 @@ Example
 - Story
 - Reel
 - CTA
+
+Output
+
+content_package.json
 
 ---
 
@@ -222,6 +233,10 @@ Contains
 - Lighting
 - Rendering Parameters
 
+Output
+
+image_prompt_package.json
+
 ---
 
 # Image Prompt
@@ -243,6 +258,23 @@ Defines
 Output
 
 publishing_plan.json
+
+---
+
+# Review Report
+
+A structured validation result produced after campaign review.
+
+Contains
+
+- Checks
+- Issues
+- Recommendations
+- Approval Status
+
+Output
+
+review_report.json
 
 ---
 

@@ -32,26 +32,28 @@ The architecture is designed to be:
           Marketing Brief JSON
                     │
                     ▼
+         Campaign Strategy JSON
+                    │
+                    ▼
           Content Strategist
                     │
                     ▼
-         Campaign Strategy JSON
+         Content Strategy JSON
                     │
+                    ▼
+          Content Package JSON
           ┌─────────┴─────────┐
           ▼                   ▼
      Copywriter        Creative Designer
           │                   │
           ▼                   ▼
  Copy Package JSON   Creative Package JSON
-          └─────────┬─────────┘
-                    ▼
-          Prompt Builder
-                    │
-                    ▼
-      Image Prompt Package JSON
-                    │
-                    ▼
-         Image Generation Layer
+                              │
+                              ▼
+                        Prompt Builder
+                              │
+                              ▼
+                 Image Prompt Package JSON
                     │
                     ▼
       Social Media Manager
@@ -60,10 +62,16 @@ The architecture is designed to be:
       Publishing Plan JSON
                     │
                     ▼
-              QA Review
+              QA Reviewer
+                    │
+                    ▼
+           Review Report JSON
                     │
                     ▼
              Final Campaign
+                    │
+                    ▼
+                 Delivery
 ```
 
 ---
@@ -87,11 +95,23 @@ Campaign Strategy
 
 ↓
 
+Content Strategy
+
+↓
+
+Content Package
+
+↓
+
 Copy Package
 
 ↓
 
 Creative Package
+
+↓
+
+Image Prompt Package
 
 ↓
 
@@ -129,6 +149,8 @@ marketing_brief.json
 
 campaign_strategy.json
 
+content_strategy.json
+
 content_package.json
 
 copy_package.json
@@ -136,6 +158,8 @@ copy_package.json
 creative_package.json
 
 publishing_plan.json
+
+review_report.json
 ```
 
 JSON becomes the contract between modules.
@@ -176,6 +200,10 @@ Generation Layer
 ↓
 
 Publishing Layer
+
+↓
+
+Quality Layer
 ```
 
 ---
@@ -212,6 +240,8 @@ Produces
 
 - Marketing Brief
 - Campaign Strategy
+- Content Strategy
+- Content Package
 
 ---
 
@@ -247,7 +277,7 @@ Produces
 
 - Copy Package
 - Creative Package
-- Prompt Package
+- Image Prompt Package
 
 ---
 
@@ -267,6 +297,20 @@ Possible backends
 Produces
 
 Publishing Plan.
+
+---
+
+# Quality Layer
+
+Responsible for final validation.
+
+Contains
+
+- QA Reviewer
+
+Produces
+
+- Review Report
 
 ---
 
@@ -293,6 +337,7 @@ The business architecture must remain independent from execution engines.
 Creates
 
 - marketing_brief.json
+- campaign_strategy.json
 
 ---
 
@@ -300,8 +345,8 @@ Creates
 
 Creates
 
-- campaign_strategy.json
-- content_calendar.json
+- content_strategy.json
+- content_package.json
 
 ---
 
@@ -318,6 +363,13 @@ Creates
 Creates
 
 - creative_package.json
+
+---
+
+## Prompt Builder
+
+Creates
+
 - image_prompt_package.json
 
 ---
@@ -327,6 +379,14 @@ Creates
 Creates
 
 - publishing_plan.json
+
+---
+
+## QA Reviewer
+
+Creates
+
+- review_report.json
 
 ---
 
@@ -349,15 +409,17 @@ content_strategy.json
 
 ↓
 
-copy_package.json
+content_package.json
 
-↓
+├────► copy_package.json
 
-creative_package.json
+└────► creative_package.json
 
-↓
+                         │
 
-image_prompt_package.json
+                         ▼
+
+                image_prompt_package.json
 
 ↓
 
@@ -407,10 +469,6 @@ Documentation is the primary source of truth.
 # Image Generation Architecture
 
 ```text
-Marketing Brief
-
-↓
-
 Creative Package
 
 ↓
@@ -419,7 +477,7 @@ Prompt Builder
 
 ↓
 
-Prompt Package
+Image Prompt Package
 
 ↓
 

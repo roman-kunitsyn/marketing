@@ -1,4 +1,4 @@
-# AI-First Content Marketing Agency
+# AI-First Marketing Agency
 
 ## Mission
 
@@ -40,19 +40,17 @@ Campaign Strategy
 
 ↓
 
+Content Strategy
+
+↓
+
 Content Package
 
-↓
-
-Copy Package
-
-↓
-
-Creative Package
-
-↓
-
-Image Prompt Package
+        ├────► Copy Package
+        └────► Creative Package
+                         │
+                         ▼
+                Image Prompt Package
 
 ↓
 
@@ -105,6 +103,7 @@ Responsibilities
 Output
 
 - content_strategy.json
+- content_package.json
 
 ---
 
@@ -141,11 +140,21 @@ Produces
 - Carousel Concepts
 - Story Concepts
 - Reel Covers
-- Image Prompt Packages
 
 Output
 
 - creative_package.json
+
+---
+
+## Prompt Builder
+
+Purpose
+
+Generate image prompt packages.
+
+Output
+
 - image_prompt_package.json
 
 ---
@@ -169,6 +178,18 @@ Output
 
 ---
 
+## QA Reviewer
+
+Purpose
+
+Validate the final campaign artifacts.
+
+Output
+
+- review_report.json
+
+---
+
 # Main Artifacts
 
 ```
@@ -185,6 +206,10 @@ campaign_strategy.json
 ↓
 
 content_strategy.json
+
+↓
+
+content_package.json
 
 ↓
 
@@ -334,12 +359,14 @@ All artifacts are defined by JSON Schema.
 Examples
 
 - marketing_brief.schema.json
-- campaign_package.schema.json
+- campaign_strategy.schema.json
+- content_strategy.schema.json
 - content_package.schema.json
 - copy_package.schema.json
 - creative_package.schema.json
 - image_prompt_package.schema.json
 - publishing_plan.schema.json
+- review_report.schema.json
 
 ---
 
@@ -383,19 +410,27 @@ Client Interview
 Marketing Brief
         │
         ▼
-Campaign Builder
+Campaign Strategy
         │
         ▼
-Content Generator
+Content Strategy
         │
         ▼
-Prompt Generator
-        │
-        ▼
-Image Generator
+Content Package
+        ├────► Copy Package
+        └────► Creative Package
+                         │
+                         ▼
+                Image Prompt Package
         │
         ▼
 Publishing
+        │
+        ▼
+Review
+        │
+        ▼
+Delivery
 ```
 
 ---
