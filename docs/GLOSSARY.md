@@ -292,6 +292,10 @@ Examples
 - Facebook
 - LinkedIn
 - TikTok
+- YouTube
+- Telegram
+- WhatsApp
+- Pinterest
 
 ---
 

@@ -314,6 +314,7 @@ Future
 - YouTube
 - WhatsApp
 - Telegram
+- Pinterest
 
 ---
 

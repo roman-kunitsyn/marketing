@@ -283,6 +283,8 @@ Future support:
 - LinkedIn
 - TikTok
 - YouTube
+- Telegram
+- WhatsApp
 - Pinterest
 
 ---
