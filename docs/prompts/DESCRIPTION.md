@@ -18,6 +18,10 @@ Use this folder for:
 
 Prompts are implementation artifacts for generation models, not business documentation.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder when generating prompts from the underlying knowledge layers.
+
 See also:
 
 - [AI](../ai/DESCRIPTION.md)

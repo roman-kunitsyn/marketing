@@ -28,6 +28,10 @@ Use this folder for:
 - captions and hashtags
 - common mistakes
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to adapt content for a specific platform.
+
 See also:
 
 - [Marketing](../marketing/DESCRIPTION.md)

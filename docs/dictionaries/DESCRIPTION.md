@@ -21,6 +21,10 @@ Use this folder for:
 
 A dictionary entry should be stable, reusable, and consistent across the rest of the documentation.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder when you need canonical vocabulary or enumerated values.
+
 See also:
 
 - [Schemas](../schemas/DESCRIPTION.md)

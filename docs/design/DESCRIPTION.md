@@ -19,6 +19,10 @@ Use this folder for:
 
 Design knowledge informs creative decisions and prompt generation, but it is not a prompt library.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to shape visual decisions before prompt generation.
+
 See also:
 
 - [Content](../content/DESCRIPTION.md)

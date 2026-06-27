@@ -19,6 +19,10 @@ Use this folder for:
 
 Business knowledge stays separate from agency roles, marketing strategy, content planning, and execution.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to understand how the agency operates as a business.
+
 See also:
 
 - [Project](../PROJECT.md)

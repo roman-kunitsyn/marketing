@@ -22,6 +22,10 @@ Recommended project metadata:
 Projects are mutable.
 Examples are curated and frozen.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder for active work in progress.
+
 See also:
 
 - [Examples](../examples/DESCRIPTION.md)

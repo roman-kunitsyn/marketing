@@ -15,6 +15,10 @@ Use this folder for:
 
 The template structure should mirror the schema structure closely.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to start new artifacts from safe defaults.
+
 See also:
 
 - [Schemas](../schemas/DESCRIPTION.md)

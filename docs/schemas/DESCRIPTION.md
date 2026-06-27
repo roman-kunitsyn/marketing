@@ -20,6 +20,10 @@ Use this folder for:
 
 Schemas should be organized by business domain, not by agent.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to validate artifacts and define contracts.
+
 See also:
 
 - [Dictionaries](../dictionaries/DESCRIPTION.md)

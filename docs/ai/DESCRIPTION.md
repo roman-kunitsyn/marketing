@@ -17,6 +17,10 @@ Use this folder for:
 AI is not the source of business knowledge.
 It consumes knowledge from the documentation, dictionaries, schemas, and templates.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to understand how agents load context and produce artifacts.
+
 See also:
 
 - [Architecture](../ARCHITECTURE.md)

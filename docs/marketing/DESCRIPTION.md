@@ -24,6 +24,10 @@ Use this folder for:
 
 Marketing knowledge is what the agency uses to make decisions before any content is produced.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to make marketing decisions before creating content.
+
 See also:
 
 - [Business](../business/DESCRIPTION.md)

@@ -25,6 +25,10 @@ Use this folder for:
 
 Content knowledge is about what is being created, not where it is published.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to define content assets and packages before platform adaptation.
+
 See also:
 
 - [Marketing](../marketing/DESCRIPTION.md)

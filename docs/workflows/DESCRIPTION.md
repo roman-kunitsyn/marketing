@@ -25,6 +25,10 @@ Use this folder for:
 
 Workflows are business processes, not execution code.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to understand how artifacts move through the system.
+
 See also:
 
 - [Architecture](../ARCHITECTURE.md)

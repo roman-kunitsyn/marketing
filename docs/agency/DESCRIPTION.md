@@ -23,6 +23,10 @@ Use this folder for:
 - handoff contracts
 - review and quality guidelines
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to understand who owns each artifact and how handoffs work.
+
 See also:
 
 - [Project](../PROJECT.md)

@@ -17,6 +17,10 @@ Use this folder for:
 Execution backends are interchangeable.
 The business docs and artifact contracts should remain valid even if a backend changes.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder when implementing workflow execution or publishing automation.
+
 See also:
 
 - [Architecture](../ARCHITECTURE.md)

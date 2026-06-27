@@ -13,6 +13,10 @@ Use this folder for:
 
 Each example should mirror the project structure closely enough that it can be compared against live work in `projects/`.
 
+How To Use:
+
+Read [README](../README.md) first, then use this folder to compare new work against approved reference projects.
+
 See also:
 
 - [Projects](../projects/DESCRIPTION.md)
