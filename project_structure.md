@@ -1,143 +1,179 @@
-# AI-First Content Marketing Agency
+# AI-First Marketing Agency
 
-```
-docs/
+Implementation state legend:
+
+- `[created]` exists in the repository now
+- `[planned]` is not implemented yet
+
+Rule:
+
+- Update this file after every task implementation so it always reflects the current state of the repository.
+
+```text
+docs/ [created]
+├── README.md [created]
+├── PROJECT.md [created]
+├── ARCHITECTURE.md [created]
+├── GLOSSARY.md [created]
+├── ROADMAP.md [created]
+├── FAQ.md [created]
 │
-├── README.md
-├── PROJECT.md
-├── ARCHITECTURE.md
-├── GLOSSARY.md
-├── ROADMAP.md
-├── FAQ.md
+├── business/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── business_model.md [planned]
+│   ├── pricing.md [planned]
+│   ├── workflow.md [planned]
+│   ├── client_journey.md [planned]
+│   └── contracts.md [planned]
 │
-├── business/
-│   ├── business_model.md
-│   ├── pricing.md
-│   ├── workflow.md
-│   ├── client_journey.md
-│   └── contracts.md
+├── agency/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── roles.md [planned]
+│   ├── responsibilities.md [planned]
+│   ├── communication.md [planned]
+│   ├── review_process.md [planned]
+│   └── quality_guidelines.md [planned]
 │
-├── agency/
-│   ├── roles.md
-│   ├── responsibilities.md
-│   ├── communication.md
-│   ├── review_process.md
-│   └── quality_guidelines.md
+├── marketing/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── marketing_strategy.md [planned]
+│   ├── campaign_types.md [planned]
+│   ├── campaign_templates.md [planned]
+│   ├── content_pillars.md [planned]
+│   ├── marketing_goals.md [planned]
+│   ├── target_audiences.md [planned]
+│   ├── customer_personas.md [planned]
+│   ├── sales_funnel.md [planned]
+│   ├── brand_voice.md [planned]
+│   ├── visual_style.md [planned]
+│   └── call_to_actions.md [planned]
 │
-├── marketing/
-│   ├── marketing_strategy.md
-│   ├── campaign_types.md
-│   ├── campaign_templates.md
-│   ├── content_pillars.md
-│   ├── marketing_goals.md
-│   ├── target_audiences.md
-│   ├── customer_personas.md
-│   ├── sales_funnel.md
-│   ├── brand_voice.md
-│   ├── visual_style.md
-│   └── call_to_actions.md
+├── platforms/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── instagram.md [planned]
+│   ├── facebook.md [planned]
+│   ├── linkedin.md [planned]
+│   ├── tiktok.md [planned]
+│   ├── youtube.md [planned]
+│   ├── telegram.md [planned]
+│   ├── whatsapp.md [planned]
+│   └── pinterest.md [planned]
 │
-├── platforms/
-│   ├── instagram.md
-│   ├── facebook.md
-│   ├── linkedin.md
-│   ├── tiktok.md
-│   ├── youtube.md
-│   └── whatsapp.md
+├── content/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── content_types.md [planned]
+│   ├── content_packages.md [planned]
+│   ├── hero_images.md [planned]
+│   ├── carousels.md [planned]
+│   ├── stories.md [planned]
+│   ├── reels.md [planned]
+│   ├── testimonials.md [planned]
+│   ├── case_studies.md [planned]
+│   ├── educational_posts.md [planned]
+│   ├── faq_posts.md [planned]
+│   ├── offers.md [planned]
+│   └── hashtags.md [planned]
 │
-├── content/
-│   ├── content_types.md
-│   ├── content_packages.md
-│   ├── hero_images.md
-│   ├── carousels.md
-│   ├── stories.md
-│   ├── reels.md
-│   ├── testimonials.md
-│   ├── case_studies.md
-│   ├── educational_posts.md
-│   ├── faq_posts.md
-│   ├── offers.md
-│   └── hashtags.md
+├── design/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── design_system.md [planned]
+│   ├── color_guidelines.md [planned]
+│   ├── typography.md [planned]
+│   ├── layouts.md [planned]
+│   ├── composition.md [planned]
+│   ├── branding.md [planned]
+│   ├── image_sizes.md [planned]
+│   └── image_assets.md [planned]
 │
-├── design/
-│   ├── design_system.md
-│   ├── color_guidelines.md
-│   ├── typography.md
-│   ├── layouts.md
-│   ├── composition.md
-│   ├── branding.md
-│   ├── image_sizes.md
-│   └── image_assets.md
+├── prompts/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── prompt_guidelines.md [planned]
+│   ├── image_prompts.md [planned]
+│   ├── copywriting_prompts.md [planned]
+│   ├── editing_prompts.md [planned]
+│   ├── prompt_patterns.md [planned]
+│   └── prompt_examples.md [planned]
 │
-├── prompts/
-│   ├── prompt_guidelines.md
-│   ├── image_prompts.md
-│   ├── copywriting_prompts.md
-│   ├── editing_prompts.md
-│   ├── prompt_patterns.md
-│   └── prompt_examples.md
+├── schemas/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── marketing_brief.schema.json [planned]
+│   ├── campaign_strategy.schema.json [planned]
+│   ├── content_strategy.schema.json [planned]
+│   ├── content_package.schema.json [planned]
+│   ├── copy_package.schema.json [planned]
+│   ├── creative_package.schema.json [planned]
+│   ├── image_prompt_package.schema.json [planned]
+│   ├── publishing_plan.schema.json [planned]
+│   ├── review_report.schema.json [planned]
+│   ├── client_interview.schema.json [planned]
+│   └── brand_profile.schema.json [planned]
 │
-├── schemas/
-│   ├── marketing_brief.schema.json
-│   ├── campaign_package.schema.json
-│   ├── content_package.schema.json
-│   ├── copy_package.schema.json
-│   ├── creative_package.schema.json
-│   ├── publishing_plan.schema.json
-│   ├── image_prompt.schema.json
-│   ├── client_interview.schema.json
-│   └── brand_profile.schema.json
+├── dictionaries/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── campaign_types.json [planned]
+│   ├── content_types.json [planned]
+│   ├── content_packages.json [planned]
+│   ├── marketing_goals.json [planned]
+│   ├── platforms.json [planned]
+│   ├── visual_styles.json [planned]
+│   ├── brand_voices.json [planned]
+│   ├── target_audiences.json [planned]
+│   ├── image_assets.json [planned]
+│   ├── color_palettes.json [planned]
+│   └── cta_library.json [planned]
 │
-├── dictionaries/
-│   ├── campaign_types.json
-│   ├── content_types.json
-│   ├── content_packages.json
-│   ├── marketing_goals.json
-│   ├── platforms.json
-│   ├── visual_styles.json
-│   ├── brand_voices.json
-│   ├── target_audiences.json
-│   ├── image_assets.json
-│   ├── color_palettes.json
-│   └── cta_library.json
+├── workflows/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── client_interview.md [planned]
+│   ├── campaign_creation.md [planned]
+│   ├── content_strategy.md [planned]
+│   ├── copywriting.md [planned]
+│   ├── creative_design.md [planned]
+│   ├── prompt_generation.md [planned]
+│   ├── image_generation.md [planned]
+│   ├── review.md [planned]
+│   ├── approval.md [planned]
+│   ├── publishing.md [planned]
+│   └── analytics.md [planned]
 │
-├── workflows/
-│   ├── client_interview.md
-│   ├── campaign_creation.md
-│   ├── copywriting.md
-│   ├── image_generation.md
-│   ├── review.md
-│   ├── publishing.md
-│   └── analytics.md
+├── automation/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── langgraph.md [planned]
+│   ├── n8n.md [planned]
+│   ├── playwright.md [planned]
+│   ├── publishing.md [planned]
+│   └── integrations.md [planned]
 │
-├── automation/
-│   ├── langgraph.md
-│   ├── n8n.md
-│   ├── playwright.md
-│   ├── publishing.md
-│   └── integrations.md
+├── ai/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── agents.md [planned]
+│   ├── system_prompts.md [planned]
+│   ├── context_strategy.md [planned]
+│   ├── retrieval.md [planned]
+│   ├── tool_usage.md [planned]
+│   └── evaluation.md [planned]
 │
-├── ai/
-│   ├── agents.md
-│   ├── system_prompts.md
-│   ├── context_strategy.md
-│   ├── retrieval.md
-│   ├── tool_usage.md
-│   └── evaluation.md
+├── examples/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── software_company/ [planned]
+│   └── ecommerce/ [planned]
 │
-├── examples/
-│   ├── software_company/
-│   └── ecommerce/
+├── projects/ [created]
+│   ├── DESCRIPTION.md [created]
+│   ├── psychological_center/ [planned]
+│   ├── private_boat_charter/ [planned]
+│   └── ecommerce/ [planned]
 │
-├── projects/
-│   ├── psychological_center/
-│   ├── private_boat_charter/
-│   └── ecommerce/
-│
-└── templates/
-    ├── marketing_brief.json
-    ├── campaign_package.json
-    ├── publishing_plan.json
-    ├── prompt_package.json
-    └── client_report.json
+└── templates/ [created]
+    ├── DESCRIPTION.md [created]
+    ├── client_interview.json [planned]
+    ├── marketing_brief.json [planned]
+    ├── campaign_strategy.json [planned]
+    ├── content_strategy.json [planned]
+    ├── content_package.json [planned]
+    ├── copy_package.json [planned]
+    ├── creative_package.json [planned]
+    ├── image_prompt_package.json [planned]
+    ├── publishing_plan.json [planned]
+    └── review_report.json [planned]
 ```
