@@ -214,6 +214,8 @@ Future
 - LinkedIn
 - TikTok
 - YouTube
+- Telegram
+- WhatsApp
 - Pinterest
 
 ---
@@ -401,6 +403,9 @@ Knowledge Improvement
 - LinkedIn
 - TikTok
 - YouTube
+- Telegram
+- WhatsApp
+- Pinterest
 
 ## Business
 

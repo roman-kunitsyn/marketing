@@ -66,11 +66,6 @@ The architecture is designed to be:
                     │
                     ▼
            Review Report JSON
-                    │
-                    ▼
-             Final Campaign
-                    │
-                    ▼
                  Delivery
 ```
 
@@ -510,6 +505,12 @@ Facebook
 LinkedIn
 
 TikTok
+
+Telegram
+
+WhatsApp
+
+Pinterest
 ```
 
 Every platform has its own adapter.
@@ -538,26 +539,21 @@ No existing modules should require modification to support these extensions.
 
 ```text
 docs/
-
-roles/
-
-guidelines/
-
-schemas/
-
-dictionaries/
-
-templates/
-
-examples/
-
-prompts/
-
+business/
+agency/
 marketing/
-
+content/
+design/
 platforms/
-
+prompts/
+schemas/
+dictionaries/
+workflows/
 automation/
+ai/
+examples/
+projects/
+templates/
 ```
 
 Documentation is organized by business domain rather than implementation.
