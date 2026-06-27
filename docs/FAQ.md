@@ -28,6 +28,13 @@ Each module produces structured business artifacts rather than engaging in free-
 
 ---
 
+# How To Use
+
+If you start here, read [README](README.md) first for the navigation and recommended reading order.
+Then use this file to resolve terminology and common questions before changing docs or implementation.
+
+---
+
 ### What problem does the project solve?
 
 It standardizes and automates the marketing campaign creation process.

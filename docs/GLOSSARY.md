@@ -12,6 +12,13 @@ This document defines the core terminology used throughout the project.
 
 ---
 
+# How To Use
+
+If you start here, read [README](README.md) first for the navigation and recommended reading order.
+Then use this file to confirm shared terminology before editing artifacts, workflows, or schemas.
+
+---
+
 # Agency
 
 The complete AI-powered marketing system responsible for transforming business requirements into marketing campaigns.

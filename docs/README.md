@@ -44,6 +44,22 @@ Domain docs:
 
 ---
 
+# Agent Reading Order
+
+Use this order when starting a new task:
+
+1. [README](README.md) for the project overview and navigation.
+2. [Project](PROJECT.md) for the canonical artifact flow and roles.
+3. [Glossary](GLOSSARY.md) for shared terminology.
+4. [Architecture](ARCHITECTURE.md) for system layers and artifact contracts.
+5. The relevant domain folder, such as [Business](business/DESCRIPTION.md), [Marketing](marketing/DESCRIPTION.md), or [Content](content/DESCRIPTION.md).
+6. [Schemas](schemas/DESCRIPTION.md) and [Templates](templates/DESCRIPTION.md) when creating or validating artifacts.
+7. [Workflows](workflows/DESCRIPTION.md) and [Automation](automation/DESCRIPTION.md) when implementing execution.
+
+If a task touches platform behavior, consult [Platforms](platforms/DESCRIPTION.md) before writing content or prompts.
+
+---
+
 # Vision
 
 ```

@@ -17,6 +17,13 @@ The agency is knowledge-driven. Every decision is based on structured documentat
 
 ---
 
+# How To Use
+
+If you start here, read [README](README.md) first for the navigation and recommended reading order.
+Then use this file to understand the canonical artifact flow, roles, and implementation state.
+
+---
+
 # Core Principles
 
 - AI First

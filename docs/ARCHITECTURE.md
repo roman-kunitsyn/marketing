@@ -27,6 +27,13 @@ The architecture is designed to be:
 
 ---
 
+# How To Use
+
+If you start here, read [README](README.md) first for the navigation and recommended reading order.
+Then use this file to understand the system layers, artifact contracts, and execution boundaries.
+
+---
+
 # High-Level Architecture
 
 ```text

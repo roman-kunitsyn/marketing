@@ -12,6 +12,13 @@ This roadmap describes the planned evolution of the AI-First Marketing Agency fr
 
 ---
 
+# How To Use
+
+If you start here, read [README](README.md) first for the navigation and recommended reading order.
+Then use this file to understand what is already planned versus what remains to be built.
+
+---
+
 # Vision
 
 Transform a structured client interview into a complete, publishable marketing campaign using modular AI agents, reusable knowledge, and machine-readable artifacts.
