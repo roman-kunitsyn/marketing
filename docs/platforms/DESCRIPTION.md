@@ -27,3 +27,9 @@ Use this folder for:
 - posting guidance
 - captions and hashtags
 - common mistakes
+
+See also:
+
+- [Marketing](../marketing/DESCRIPTION.md)
+- [Content](../content/DESCRIPTION.md)
+- [Glossary](../GLOSSARY.md)

@@ -20,3 +20,9 @@ Use this folder for:
 - CTA library
 
 A dictionary entry should be stable, reusable, and consistent across the rest of the documentation.
+
+See also:
+
+- [Schemas](../schemas/DESCRIPTION.md)
+- [Templates](../templates/DESCRIPTION.md)
+- [Glossary](../GLOSSARY.md)

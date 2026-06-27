@@ -20,6 +20,14 @@ Each module produces structured business artifacts rather than engaging in free-
 
 ---
 
+# See Also
+
+- [README](README.md)
+- [Glossary](GLOSSARY.md)
+- [Architecture](ARCHITECTURE.md)
+
+---
+
 ### What problem does the project solve?
 
 It standardizes and automates the marketing campaign creation process.

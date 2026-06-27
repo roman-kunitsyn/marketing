@@ -17,3 +17,10 @@ Use this folder for:
 - model profiles
 
 Prompts are implementation artifacts for generation models, not business documentation.
+
+See also:
+
+- [AI](../ai/DESCRIPTION.md)
+- [Design](../design/DESCRIPTION.md)
+- [Content](../content/DESCRIPTION.md)
+- [Schemas](../schemas/DESCRIPTION.md)

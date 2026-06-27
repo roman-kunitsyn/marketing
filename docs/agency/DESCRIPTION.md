@@ -22,3 +22,10 @@ Use this folder for:
 - communication rules
 - handoff contracts
 - review and quality guidelines
+
+See also:
+
+- [Project](../PROJECT.md)
+- [Architecture](../ARCHITECTURE.md)
+- [Glossary](../GLOSSARY.md)
+- [Workflows](../workflows/DESCRIPTION.md)

@@ -16,3 +16,11 @@ Use this folder for:
 
 AI is not the source of business knowledge.
 It consumes knowledge from the documentation, dictionaries, schemas, and templates.
+
+See also:
+
+- [Architecture](../ARCHITECTURE.md)
+- [Glossary](../GLOSSARY.md)
+- [Prompts](../prompts/DESCRIPTION.md)
+- [Schemas](../schemas/DESCRIPTION.md)
+- [Dictionaries](../dictionaries/DESCRIPTION.md)

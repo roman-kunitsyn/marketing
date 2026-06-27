@@ -18,3 +18,9 @@ Use this folder for:
 - image assets
 
 Design knowledge informs creative decisions and prompt generation, but it is not a prompt library.
+
+See also:
+
+- [Content](../content/DESCRIPTION.md)
+- [Prompts](../prompts/DESCRIPTION.md)
+- [Marketing](../marketing/DESCRIPTION.md)

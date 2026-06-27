@@ -14,6 +14,36 @@ The project is designed for both human teams and AI agents.
 
 ---
 
+# Navigation
+
+Start here:
+
+- [Project](PROJECT.md)
+- [Architecture](ARCHITECTURE.md)
+- [Glossary](GLOSSARY.md)
+- [Roadmap](ROADMAP.md)
+- [FAQ](FAQ.md)
+
+Domain docs:
+
+- [Business](business/DESCRIPTION.md)
+- [Agency](agency/DESCRIPTION.md)
+- [Marketing](marketing/DESCRIPTION.md)
+- [Content](content/DESCRIPTION.md)
+- [Design](design/DESCRIPTION.md)
+- [Platforms](platforms/DESCRIPTION.md)
+- [Prompts](prompts/DESCRIPTION.md)
+- [Schemas](schemas/DESCRIPTION.md)
+- [Dictionaries](dictionaries/DESCRIPTION.md)
+- [Workflows](workflows/DESCRIPTION.md)
+- [Automation](automation/DESCRIPTION.md)
+- [AI](ai/DESCRIPTION.md)
+- [Projects](projects/DESCRIPTION.md)
+- [Examples](examples/DESCRIPTION.md)
+- [Templates](templates/DESCRIPTION.md)
+
+---
+
 # Vision
 
 ```

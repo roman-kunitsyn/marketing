@@ -16,3 +16,9 @@ Use this folder for:
 
 Execution backends are interchangeable.
 The business docs and artifact contracts should remain valid even if a backend changes.
+
+See also:
+
+- [Architecture](../ARCHITECTURE.md)
+- [Workflows](../workflows/DESCRIPTION.md)
+- [Projects](../projects/DESCRIPTION.md)

@@ -23,3 +23,10 @@ Use this folder for:
 - best practices
 
 Marketing knowledge is what the agency uses to make decisions before any content is produced.
+
+See also:
+
+- [Business](../business/DESCRIPTION.md)
+- [Platforms](../platforms/DESCRIPTION.md)
+- [Content](../content/DESCRIPTION.md)
+- [Glossary](../GLOSSARY.md)

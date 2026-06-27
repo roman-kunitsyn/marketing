@@ -21,3 +21,9 @@ Recommended project metadata:
 
 Projects are mutable.
 Examples are curated and frozen.
+
+See also:
+
+- [Examples](../examples/DESCRIPTION.md)
+- [Templates](../templates/DESCRIPTION.md)
+- [Schemas](../schemas/DESCRIPTION.md)

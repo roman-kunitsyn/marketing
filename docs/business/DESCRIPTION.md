@@ -18,3 +18,10 @@ Use this folder for:
 - onboarding and offboarding
 
 Business knowledge stays separate from agency roles, marketing strategy, content planning, and execution.
+
+See also:
+
+- [Project](../PROJECT.md)
+- [Architecture](../ARCHITECTURE.md)
+- [Glossary](../GLOSSARY.md)
+- [Workflows](../workflows/DESCRIPTION.md)

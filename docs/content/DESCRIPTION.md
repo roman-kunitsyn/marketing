@@ -24,3 +24,10 @@ Use this folder for:
 - calls to action
 
 Content knowledge is about what is being created, not where it is published.
+
+See also:
+
+- [Marketing](../marketing/DESCRIPTION.md)
+- [Platforms](../platforms/DESCRIPTION.md)
+- [Design](../design/DESCRIPTION.md)
+- [Prompts](../prompts/DESCRIPTION.md)

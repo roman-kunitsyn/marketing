@@ -19,3 +19,10 @@ Use this folder for:
 - review report schema
 
 Schemas should be organized by business domain, not by agent.
+
+See also:
+
+- [Dictionaries](../dictionaries/DESCRIPTION.md)
+- [Templates](../templates/DESCRIPTION.md)
+- [Workflows](../workflows/DESCRIPTION.md)
+- [Glossary](../GLOSSARY.md)

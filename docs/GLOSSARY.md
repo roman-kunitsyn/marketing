@@ -4,6 +4,14 @@ This document defines the core terminology used throughout the project.
 
 ---
 
+# See Also
+
+- [README](README.md)
+- [Project](PROJECT.md)
+- [Architecture](ARCHITECTURE.md)
+
+---
+
 # Agency
 
 The complete AI-powered marketing system responsible for transforming business requirements into marketing campaigns.

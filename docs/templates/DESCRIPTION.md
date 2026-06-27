@@ -14,3 +14,9 @@ Use this folder for:
 - template review artifacts
 
 The template structure should mirror the schema structure closely.
+
+See also:
+
+- [Schemas](../schemas/DESCRIPTION.md)
+- [Projects](../projects/DESCRIPTION.md)
+- [Examples](../examples/DESCRIPTION.md)

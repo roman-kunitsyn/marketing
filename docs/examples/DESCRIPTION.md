@@ -12,3 +12,9 @@ Use this folder for:
 - reusable patterns by industry
 
 Each example should mirror the project structure closely enough that it can be compared against live work in `projects/`.
+
+See also:
+
+- [Projects](../projects/DESCRIPTION.md)
+- [Templates](../templates/DESCRIPTION.md)
+- [Schemas](../schemas/DESCRIPTION.md)

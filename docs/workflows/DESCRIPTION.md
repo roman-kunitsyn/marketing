@@ -24,3 +24,10 @@ Use this folder for:
 - analytics workflow
 
 Workflows are business processes, not execution code.
+
+See also:
+
+- [Architecture](../ARCHITECTURE.md)
+- [Schemas](../schemas/DESCRIPTION.md)
+- [Agency](../agency/DESCRIPTION.md)
+- [Automation](../automation/DESCRIPTION.md)
