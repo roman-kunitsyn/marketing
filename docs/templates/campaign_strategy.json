@@ -1,8 +1,8 @@
 {
   "marketing_brief_id": null,
-  "campaign_type": null,
-  "objectives": [],
+  "objective": null,
   "content_pillars": [],
   "platforms": [],
-  "success_metrics": []
+  "success_metrics": [],
+  "notes": null
 }

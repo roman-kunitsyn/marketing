@@ -12,6 +12,7 @@ Use this folder for:
 - template content and creative packages
 - template publishing artifacts
 - template review artifacts
+- template brand profiles
 
 The template structure should mirror the schema structure closely.
 

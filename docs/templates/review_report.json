@@ -1,7 +1,6 @@
 {
-  "campaign_id": null,
+  "publishing_plan_id": null,
   "status": null,
-  "checks": [],
   "issues": [],
-  "recommendations": []
+  "notes": null
 }

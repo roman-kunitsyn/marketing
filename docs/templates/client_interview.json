@@ -1,10 +1,9 @@
 {
-  "company_name": null,
-  "industry": null,
+  "client_name": null,
+  "business_name": null,
   "goals": [],
-  "target_audience": [],
   "platforms": [],
-  "budget": null,
   "brand_voice": null,
+  "visual_style": null,
   "notes": null
 }

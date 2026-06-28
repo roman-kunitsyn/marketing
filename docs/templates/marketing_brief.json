@@ -1,10 +1,9 @@
 {
   "client_interview_id": null,
-  "business_summary": null,
-  "goals": [],
-  "audience": [],
+  "business_goals": [],
+  "target_audience": null,
+  "campaign_type": null,
   "platforms": [],
-  "campaign_scope": null,
   "brand_voice": null,
   "visual_style": null
 }

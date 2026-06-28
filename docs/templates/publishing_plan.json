@@ -1,5 +1,6 @@
 {
-  "campaign_id": null,
+  "content_package_id": null,
   "platforms": [],
-  "schedule": []
+  "schedule": [],
+  "items": []
 }

@@ -167,6 +167,7 @@ docs/ [created]
 │
 └── templates/ [created]
     ├── DESCRIPTION.md [created]
+    ├── brand_profile.json [created]
     ├── client_interview.json [created]
     ├── marketing_brief.json [created]
     ├── campaign_strategy.json [created]

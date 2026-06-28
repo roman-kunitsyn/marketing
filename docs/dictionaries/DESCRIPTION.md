@@ -4,6 +4,7 @@ This folder defines the canonical vocabulary for the project.
 
 Dictionaries store enumerated values and reusable taxonomies used by schemas, templates, forms, agents, and workflows.
 They should contain structured values, not business logic.
+Most dictionary files are simple lists, but grouped taxonomies may use objects when named categories make the structure clearer.
 
 Use this folder for:
 
