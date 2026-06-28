@@ -27,4 +27,10 @@ Index:
 
 - [Agency](../agency/DESCRIPTION.md)
 - [Marketing](../marketing/DESCRIPTION.md)
+- [Business Model](business_model.md)
+- [Service Catalog](service_catalog.md)
+- [Pricing](pricing.md)
+- [Client Journey](client_journey.md)
+- [Workflow](workflow.md)
+- [Contracts](contracts.md)
 - [Projects](../projects/DESCRIPTION.md)
