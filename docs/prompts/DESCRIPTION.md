@@ -33,3 +33,4 @@ Index:
 - [Editing Prompts](editing_prompts.md)
 - [Prompt Patterns](prompt_patterns.md)
 - [Prompt Examples](prompt_examples.md)
+- [Project Init Prompt](project_init_prompt.md)
