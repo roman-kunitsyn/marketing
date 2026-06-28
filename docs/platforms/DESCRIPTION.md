@@ -32,7 +32,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to adapt content for a specific platform.
 
-See also:
+Index:
 
 - [Marketing](../marketing/DESCRIPTION.md)
 - [Content](../content/DESCRIPTION.md)

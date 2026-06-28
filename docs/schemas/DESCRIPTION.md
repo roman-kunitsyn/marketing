@@ -24,9 +24,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to validate artifacts and define contracts.
 
-See also:
+Index:
 
 - [Dictionaries](../dictionaries/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)
 - [Workflows](../workflows/DESCRIPTION.md)
-- [Glossary](../GLOSSARY.md)

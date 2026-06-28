@@ -26,8 +26,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder for active work in progress.
 
-See also:
+Index:
 
-- [Examples](../examples/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)
+- [Examples](../examples/DESCRIPTION.md)
 - [Schemas](../schemas/DESCRIPTION.md)

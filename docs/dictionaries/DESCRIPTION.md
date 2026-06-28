@@ -25,7 +25,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder when you need canonical vocabulary or enumerated values.
 
-See also:
+Index:
 
 - [Schemas](../schemas/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)

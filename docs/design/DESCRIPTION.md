@@ -23,7 +23,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to shape visual decisions before prompt generation.
 
-See also:
+Index:
 
 - [Content](../content/DESCRIPTION.md)
 - [Prompts](../prompts/DESCRIPTION.md)

@@ -21,7 +21,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder when implementing workflow execution or publishing automation.
 
-See also:
+Index:
 
 - [Architecture](../ARCHITECTURE.md)
 - [Workflows](../workflows/DESCRIPTION.md)

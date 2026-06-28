@@ -29,9 +29,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to understand how artifacts move through the system.
 
-See also:
+Index:
 
 - [Architecture](../ARCHITECTURE.md)
-- [Schemas](../schemas/DESCRIPTION.md)
 - [Agency](../agency/DESCRIPTION.md)
 - [Automation](../automation/DESCRIPTION.md)

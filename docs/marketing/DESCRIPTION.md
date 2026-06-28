@@ -28,9 +28,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to make marketing decisions before creating content.
 
-See also:
+Index:
 
 - [Business](../business/DESCRIPTION.md)
-- [Platforms](../platforms/DESCRIPTION.md)
 - [Content](../content/DESCRIPTION.md)
-- [Glossary](../GLOSSARY.md)
+- [Platforms](../platforms/DESCRIPTION.md)

@@ -17,7 +17,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to compare new work against approved reference projects.
 
-See also:
+Index:
 
 - [Projects](../projects/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)

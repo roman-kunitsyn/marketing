@@ -27,9 +27,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to understand who owns each artifact and how handoffs work.
 
-See also:
+Index:
 
-- [Project](../PROJECT.md)
-- [Architecture](../ARCHITECTURE.md)
-- [Glossary](../GLOSSARY.md)
+- [Business](../business/DESCRIPTION.md)
 - [Workflows](../workflows/DESCRIPTION.md)
+- [Project](../PROJECT.md)

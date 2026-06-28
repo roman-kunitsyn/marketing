@@ -23,9 +23,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to understand how the agency operates as a business.
 
-See also:
+Index:
 
-- [Project](../PROJECT.md)
-- [Architecture](../ARCHITECTURE.md)
-- [Glossary](../GLOSSARY.md)
-- [Workflows](../workflows/DESCRIPTION.md)
+- [Agency](../agency/DESCRIPTION.md)
+- [Marketing](../marketing/DESCRIPTION.md)
+- [Projects](../projects/DESCRIPTION.md)

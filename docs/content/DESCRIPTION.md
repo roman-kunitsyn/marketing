@@ -29,9 +29,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to define content assets and packages before platform adaptation.
 
-See also:
+Index:
 
 - [Marketing](../marketing/DESCRIPTION.md)
 - [Platforms](../platforms/DESCRIPTION.md)
 - [Design](../design/DESCRIPTION.md)
-- [Prompts](../prompts/DESCRIPTION.md)

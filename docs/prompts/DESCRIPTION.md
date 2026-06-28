@@ -22,9 +22,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder when generating prompts from the underlying knowledge layers.
 
-See also:
+Index:
 
 - [AI](../ai/DESCRIPTION.md)
 - [Design](../design/DESCRIPTION.md)
-- [Content](../content/DESCRIPTION.md)
 - [Schemas](../schemas/DESCRIPTION.md)

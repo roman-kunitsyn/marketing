@@ -21,10 +21,8 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to understand how agents load context and produce artifacts.
 
-See also:
+Index:
 
 - [Architecture](../ARCHITECTURE.md)
-- [Glossary](../GLOSSARY.md)
 - [Prompts](../prompts/DESCRIPTION.md)
 - [Schemas](../schemas/DESCRIPTION.md)
-- [Dictionaries](../dictionaries/DESCRIPTION.md)

@@ -19,7 +19,7 @@ How To Use:
 
 Read [README](../README.md) first, then use this folder to start new artifacts from safe defaults.
 
-See also:
+Index:
 
 - [Schemas](../schemas/DESCRIPTION.md)
 - [Projects](../projects/DESCRIPTION.md)
