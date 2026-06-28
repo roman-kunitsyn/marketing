@@ -4,13 +4,12 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "company_name": { "type": ["string", "null"] },
-    "industry": { "type": ["string", "null"] },
+    "client_name": { "type": ["string", "null"] },
+    "business_name": { "type": ["string", "null"] },
     "goals": { "type": "array", "items": { "type": "string" } },
-    "target_audience": { "type": "array", "items": { "type": "string" } },
     "platforms": { "type": "array", "items": { "type": "string" } },
-    "budget": { "type": ["number", "null"] },
     "brand_voice": { "type": ["string", "null"] },
+    "visual_style": { "type": ["string", "null"] },
     "notes": { "type": ["string", "null"] }
   }
 }

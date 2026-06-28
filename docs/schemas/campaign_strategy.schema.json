@@ -5,10 +5,10 @@
   "additionalProperties": false,
   "properties": {
     "marketing_brief_id": { "type": ["string", "null"] },
-    "campaign_type": { "type": ["string", "null"] },
-    "objectives": { "type": "array", "items": { "type": "string" } },
+    "objective": { "type": ["string", "null"] },
     "content_pillars": { "type": "array", "items": { "type": "string" } },
     "platforms": { "type": "array", "items": { "type": "string" } },
-    "success_metrics": { "type": "array", "items": { "type": "string" } }
+    "success_metrics": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": ["string", "null"] }
   }
 }

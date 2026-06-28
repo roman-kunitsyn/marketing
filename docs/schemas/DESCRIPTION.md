@@ -17,6 +17,7 @@ Use this folder for:
 - image prompt package schema
 - publishing plan schema
 - review report schema
+- brand profile schema
 
 Schemas should be organized by business domain, not by agent.
 
@@ -29,3 +30,14 @@ Index:
 - [Dictionaries](../dictionaries/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)
 - [Workflows](../workflows/DESCRIPTION.md)
+- [Client Interview](client_interview.schema.json)
+- [Marketing Brief](marketing_brief.schema.json)
+- [Campaign Strategy](campaign_strategy.schema.json)
+- [Content Strategy](content_strategy.schema.json)
+- [Content Package](content_package.schema.json)
+- [Copy Package](copy_package.schema.json)
+- [Creative Package](creative_package.schema.json)
+- [Image Prompt Package](image_prompt_package.schema.json)
+- [Publishing Plan](publishing_plan.schema.json)
+- [Review Report](review_report.schema.json)
+- [Brand Profile](brand_profile.schema.json)

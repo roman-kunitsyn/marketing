@@ -5,9 +5,7 @@
   "additionalProperties": false,
   "properties": {
     "content_package_id": { "type": ["string", "null"] },
-    "headlines": { "type": "array", "items": { "type": "string" } },
-    "captions": { "type": "array", "items": { "type": "string" } },
-    "cta": { "type": "array", "items": { "type": "string" } },
+    "copy_items": { "type": "array", "items": { "type": "string" } },
     "hashtags": { "type": "array", "items": { "type": "string" } }
   }
 }

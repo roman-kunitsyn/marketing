@@ -5,11 +5,10 @@
   "additionalProperties": false,
   "properties": {
     "client_interview_id": { "type": ["string", "null"] },
-    "business_summary": { "type": ["string", "null"] },
-    "goals": { "type": "array", "items": { "type": "string" } },
-    "audience": { "type": "array", "items": { "type": "string" } },
+    "business_goals": { "type": "array", "items": { "type": "string" } },
+    "target_audience": { "type": ["string", "null"] },
+    "campaign_type": { "type": ["string", "null"] },
     "platforms": { "type": "array", "items": { "type": "string" } },
-    "campaign_scope": { "type": ["string", "null"] },
     "brand_voice": { "type": ["string", "null"] },
     "visual_style": { "type": ["string", "null"] }
   }
