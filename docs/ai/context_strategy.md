@@ -10,20 +10,23 @@ Read this file when designing agent retrieval or context assembly logic.
 
 ## Context Priority
 
-1. Core docs
-2. Domain docs
-3. Schemas
-4. Templates
-5. Dictionaries
-6. Workflow docs
-7. Automation docs
-8. Prompts
+1. Client input files, if provided for the task
+2. Core docs
+3. Domain docs
+4. Schemas
+5. Templates
+6. Dictionaries
+7. Workflow docs
+8. Automation docs
+9. Prompts
 
 ## Context Rules
 
+- If client input files are provided, read them before any other task-specific source.
 - Pull only the context needed for the task.
 - Prefer canonical docs over incidental examples.
 - Keep context aligned with the artifact being produced.
+- When a client file conflicts with canonical docs, treat the canonical docs as the source of truth and record the discrepancy.
 
 ## See Also
 

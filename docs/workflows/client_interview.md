@@ -10,6 +10,7 @@ Read this file when collecting client requirements or implementing interview int
 
 ## Inputs
 
+- Client input files, if provided
 - Lead or client request
 - Discovery notes
 - Business goals
@@ -19,9 +20,10 @@ Read this file when collecting client requirements or implementing interview int
 ## Steps
 
 1. Collect client information.
-2. Clarify goals, scope, and platforms.
-3. Normalize notes into `client_interview.json`.
-4. Validate completeness before handoff.
+2. Read any provided client input files first.
+3. Clarify goals, scope, and platforms.
+4. Normalize notes into `client_interview.json`.
+5. Validate completeness before handoff.
 
 ## Output
 
@@ -29,6 +31,7 @@ Read this file when collecting client requirements or implementing interview int
 
 ## Rules
 
+- If client input files are provided, read them before starting the interview.
 - Do not start strategy before the interview is complete.
 - Keep the interview structured and repeatable.
 - Capture only information that is useful downstream.

@@ -11,6 +11,13 @@ Paste this prompt at the start of a new project task, then replace the placehold
 ```text
 You are initializing a new project for the AI-First Marketing Agency.
 
+First, read the client input files listed below, if any are provided:
+- <CLIENT_INPUT_FILE_1>
+- <CLIENT_INPUT_FILE_2>
+- <CLIENT_INPUT_FILE_3>
+
+If no client input files are provided, continue with the repository docs below.
+
 Use the repository docs as the source of truth:
 - docs/README.md
 - docs/PROJECT.md
@@ -51,6 +58,8 @@ Then produce the initial artifacts in canonical order:
 10. review_report.json
 
 Rules:
+- Read any provided client input files before starting the client interview.
+- Use those files to inform the interview context, missing questions, and assumptions.
 - Use the canonical artifact names exactly.
 - Keep one primary owner per artifact.
 - Keep business, agency, marketing, content, design, platform, prompt, schema, workflow, automation, and AI concerns separate.
