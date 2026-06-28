@@ -26,3 +26,8 @@ Index:
 - [Architecture](../ARCHITECTURE.md)
 - [Workflows](../workflows/DESCRIPTION.md)
 - [Projects](../projects/DESCRIPTION.md)
+- [LangGraph](langgraph.md)
+- [n8n](n8n.md)
+- [Playwright](playwright.md)
+- [Publishing](publishing.md)
+- [Integrations](integrations.md)
