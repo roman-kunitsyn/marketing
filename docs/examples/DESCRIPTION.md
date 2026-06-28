@@ -22,3 +22,5 @@ Index:
 - [Projects](../projects/DESCRIPTION.md)
 - [Templates](../templates/DESCRIPTION.md)
 - [Schemas](../schemas/DESCRIPTION.md)
+- [Software Company](software_company/DESCRIPTION.md)
+- [Ecommerce](ecommerce/DESCRIPTION.md)

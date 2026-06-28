@@ -31,3 +31,6 @@ Index:
 - [Templates](../templates/DESCRIPTION.md)
 - [Examples](../examples/DESCRIPTION.md)
 - [Schemas](../schemas/DESCRIPTION.md)
+- [Psychological Center](psychological_center/DESCRIPTION.md)
+- [Private Boat Charter](private_boat_charter/DESCRIPTION.md)
+- [Ecommerce](ecommerce/DESCRIPTION.md)
