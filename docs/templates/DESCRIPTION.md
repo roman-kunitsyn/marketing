@@ -13,6 +13,7 @@ Use this folder for:
 - template publishing artifacts
 - template review artifacts
 - template brand profiles
+- template project state files
 
 The template structure should mirror the schema structure closely.
 

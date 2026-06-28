@@ -40,10 +40,21 @@ Create a new project workspace for:
 - project name: <PROJECT_NAME>
 - client/business: <CLIENT_NAME>
 
-Initialize the project state with:
-- current_stage: client interview
-- approved_artifacts: []
-- next_step: collect client interview inputs
+Seed `projects/<project_name>/project.json` from `docs/templates/project.json` and then replace placeholders with real values.
+
+The project state must match this shape:
+
+```json
+{
+  "project_name": "<PROJECT_NAME>",
+  "client_name": "<CLIENT_NAME>",
+  "current_stage": "client interview",
+  "approved_artifacts": [],
+  "next_step": "collect client interview inputs"
+}
+```
+
+Use the same field names and stage wording as `docs/projects/DESCRIPTION.md`.
 
 Then produce the initial artifacts in canonical order:
 1. client_interview.json

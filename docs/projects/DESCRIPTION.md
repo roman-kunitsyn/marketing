@@ -72,6 +72,7 @@ projects/<project_name>/
 - approved artifacts
 - next step
 - project metadata
+- seed from [Templates](../templates/DESCRIPTION.md)
 
 Example shape:
 
@@ -86,6 +87,16 @@ Example shape:
 ```
 
 Use this structure to keep inputs, generated outputs, and prompt history separated but easy to navigate.
+
+## Production Startup Checklist
+
+Before starting a real project:
+
+1. Collect the client input files in `client_inputs/`.
+2. Copy the starter `project.json` from [Templates](../templates/DESCRIPTION.md) into the project workspace.
+3. Run the project init prompt from [Prompts](../prompts/DESCRIPTION.md).
+4. Read client input files before the interview.
+5. Generate the canonical artifact chain in order.
 
 Index:
 
