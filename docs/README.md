@@ -60,6 +60,19 @@ If a task touches platform behavior, consult [Platforms](platforms/DESCRIPTION.m
 
 ---
 
+# Kickoff Checklist
+
+Use this when starting a new client project:
+
+1. Read any client input files first, if they exist.
+2. Read [Project](PROJECT.md) and [Glossary](GLOSSARY.md).
+3. Read [Architecture](ARCHITECTURE.md) and the relevant domain docs.
+4. Open [Templates](templates/DESCRIPTION.md) and [Schemas](schemas/DESCRIPTION.md).
+5. Start the client interview workflow in [Workflows](workflows/DESCRIPTION.md).
+6. Save the initial project state in `projects/<project_name>/project.json`.
+
+---
+
 # Vision
 
 ```

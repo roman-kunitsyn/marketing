@@ -24,6 +24,18 @@ Then use this file to understand the canonical artifact flow, roles, and impleme
 
 ---
 
+# Project Kickoff
+
+When starting a new project:
+
+1. Read any client input files first, if they are available.
+2. Confirm the project name and client name.
+3. Start from `client_interview.json`.
+4. Move through the canonical artifact flow in order.
+5. Save project state in `projects/<project_name>/project.json`.
+
+---
+
 # Core Principles
 
 - AI First
