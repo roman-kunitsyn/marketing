@@ -30,5 +30,10 @@ Read [README](../README.md) first, then use this folder to understand who owns e
 Index:
 
 - [Business](../business/DESCRIPTION.md)
+- [Roles](roles.md)
+- [Responsibilities](responsibilities.md)
+- [Communication](communication.md)
+- [Review Process](review_process.md)
+- [Quality Guidelines](quality_guidelines.md)
 - [Workflows](../workflows/DESCRIPTION.md)
 - [Project](../PROJECT.md)
