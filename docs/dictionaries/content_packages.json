@@ -1,0 +1,5 @@
+{
+  "product_launch": ["hero_image", "carousel", "story", "offer", "faq"],
+  "brand_awareness": ["hero_image", "carousel", "story", "reel"],
+  "weekly_content": ["single_image", "story", "reel"]
+}

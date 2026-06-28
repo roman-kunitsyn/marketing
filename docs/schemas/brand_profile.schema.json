@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Brand Profile",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "brand_name": { "type": ["string", "null"] },
+    "voice": { "type": ["string", "null"] },
+    "visual_style": { "type": ["string", "null"] },
+    "colors": { "type": "array", "items": { "type": "string" } }
+  }
+}

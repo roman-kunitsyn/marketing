@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content Strategy",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "campaign_strategy_id": { "type": ["string", "null"] },
+    "content_pillars": { "type": "array", "items": { "type": "string" } },
+    "content_mix": { "type": "array", "items": { "type": "string" } },
+    "publishing_schedule": { "type": ["string", "null"] },
+    "formats": { "type": "array", "items": { "type": "string" } }
+  }
+}

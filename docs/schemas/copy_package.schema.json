@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Copy Package",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "content_package_id": { "type": ["string", "null"] },
+    "headlines": { "type": "array", "items": { "type": "string" } },
+    "captions": { "type": "array", "items": { "type": "string" } },
+    "cta": { "type": "array", "items": { "type": "string" } },
+    "hashtags": { "type": "array", "items": { "type": "string" } }
+  }
+}

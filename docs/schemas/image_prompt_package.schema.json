@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Image Prompt Package",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "creative_package_id": { "type": ["string", "null"] },
+    "prompts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "asset_id": { "type": ["string", "null"] },
+          "positive_prompt": { "type": ["string", "null"] },
+          "negative_prompt": { "type": ["string", "null"] },
+          "style_notes": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

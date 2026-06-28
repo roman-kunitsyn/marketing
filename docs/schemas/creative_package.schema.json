@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creative Package",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "content_package_id": { "type": ["string", "null"] },
+    "layouts": { "type": "array", "items": { "type": "string" } },
+    "visual_concepts": { "type": "array", "items": { "type": "string" } },
+    "image_references": { "type": "array", "items": { "type": "string" } }
+  }
+}

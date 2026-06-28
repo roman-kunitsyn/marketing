@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Content Package",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "content_strategy_id": { "type": ["string", "null"] },
+    "assets": { "type": "array", "items": { "type": "string" } }
+  }
+}

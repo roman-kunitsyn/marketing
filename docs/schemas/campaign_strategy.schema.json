@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Campaign Strategy",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "marketing_brief_id": { "type": ["string", "null"] },
+    "campaign_type": { "type": ["string", "null"] },
+    "objectives": { "type": "array", "items": { "type": "string" } },
+    "content_pillars": { "type": "array", "items": { "type": "string" } },
+    "platforms": { "type": "array", "items": { "type": "string" } },
+    "success_metrics": { "type": "array", "items": { "type": "string" } }
+  }
+}

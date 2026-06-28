@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Publishing Plan",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "campaign_id": { "type": ["string", "null"] },
+    "platforms": { "type": "array", "items": { "type": "string" } },
+    "schedule": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "platform": { "type": ["string", "null"] },
+          "asset_id": { "type": ["string", "null"] },
+          "publish_at": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

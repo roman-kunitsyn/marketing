@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Review Report",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "campaign_id": { "type": ["string", "null"] },
+    "status": { "type": ["string", "null"] },
+    "checks": { "type": "array", "items": { "type": "string" } },
+    "issues": { "type": "array", "items": { "type": "string" } },
+    "recommendations": { "type": "array", "items": { "type": "string" } }
+  }
+}

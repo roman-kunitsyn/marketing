@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Marketing Brief",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "client_interview_id": { "type": ["string", "null"] },
+    "business_summary": { "type": ["string", "null"] },
+    "goals": { "type": "array", "items": { "type": "string" } },
+    "audience": { "type": "array", "items": { "type": "string" } },
+    "platforms": { "type": "array", "items": { "type": "string" } },
+    "campaign_scope": { "type": ["string", "null"] },
+    "brand_voice": { "type": ["string", "null"] },
+    "visual_style": { "type": ["string", "null"] }
+  }
+}

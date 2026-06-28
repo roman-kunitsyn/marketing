@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Client Interview",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "company_name": { "type": ["string", "null"] },
+    "industry": { "type": ["string", "null"] },
+    "goals": { "type": "array", "items": { "type": "string" } },
+    "target_audience": { "type": "array", "items": { "type": "string" } },
+    "platforms": { "type": "array", "items": { "type": "string" } },
+    "budget": { "type": ["number", "null"] },
+    "brand_voice": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}
